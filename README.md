@@ -3,7 +3,8 @@
 <div align = "center">
 
 <br/>
-Hello, I'm ByeongUk (Joy).<br/>
+ <h1>Hello, I'm ByeongUk</h1>
+ <br/>
 Have a day full of JOY today.
 
 
@@ -11,9 +12,10 @@ Have a day full of JOY today.
 
  
  </h1>My Blog</h1>
- https://blog.naver.com/gksquddnr200
+ <br/>
+<h2>https://blog.naver.com/gksquddnr200</h2>
   
-﹏﹏﹏﹏﹏﹏﹏
+
 
 <br/><br/>
  
