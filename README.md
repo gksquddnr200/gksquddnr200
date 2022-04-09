@@ -19,7 +19,7 @@ Have a day full of JOY today.
 
 <br/><br/>
  
-<h3>💻 Tech Stack 💻</h3>
+<h2>💻 My Tech Stack 💻</h2>
  
 <br/>
 
