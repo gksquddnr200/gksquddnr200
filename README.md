@@ -14,6 +14,10 @@ Have a day full of JOY today.
  </h1>My Blog</h1>
  <br/>
 <h2>https://blog.naver.com/gksquddnr200</h2>
+
+ </h1>My Coding Test practice</h1>
+ <br/>
+https://replit.com/@gksquddnr200
   
 
 
